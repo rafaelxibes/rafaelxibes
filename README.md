@@ -19,12 +19,12 @@
 ### 😺 - GitHub Status
  <div>
   <a href="https://github.com/rafaelxibes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelxibes&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxibes&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelxibes&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&locale=pt-br"/>&nbsp;
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxibes&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-br"/>
 </div>
-  
+
 ##
-  
+
 ### ✔ - Algumas das linguagens / ferramentas que uso...
 <div style="display: inline_block">
   <img align="center" alt="Rafael-HTML" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;
@@ -34,10 +34,9 @@
   <img align="center" alt="Rafael-Mysql" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;
   <img align="center" alt="Rafael-Laravel" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">&nbsp;
 </div>
-  <br>
  
   ##
-  
+
   ### 🌌 - Social mídia
   <div style="display: inline_block">
     <!-- LinkedIn -->
