@@ -12,7 +12,7 @@
 -->
 
 - 🔭 Hoje trabalho com Front-end / Back-end
-- 🌱 Atualmente estutando React
+- 🌱 Atualmente estudando React
 
 ##
 
