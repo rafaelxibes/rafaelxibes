@@ -20,7 +20,7 @@
  <div>
   <a href="https://github.com/rafaelxibes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelxibes&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&locale=pt-br"/>&nbsp;
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxibes&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-br"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxibes&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-br"/>
 </div>
 
 ##
