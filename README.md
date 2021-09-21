@@ -40,7 +40,7 @@
   ### 🌌 - Social
   <div style="display: inline_block">
     <!-- LinkedIn -->
-    <a href=""> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+    <a href="www.linkedin.com/in/rafael-azolini-przybsz"> <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
     <!-- Instagram -->
     <a href=""> <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
     <!-- Twitter -->
