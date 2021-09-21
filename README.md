@@ -54,3 +54,4 @@
     <!-- Steam -->
     <a href="https://steamcommunity.com/id/Xibes/"> <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>&nbsp;       
   </div>
+![Snake animation](https://github.com/rafaelxibes/rafaelxibes/blob/output/github-contribution-grid-snake.svg)
