@@ -1,4 +1,4 @@
-### olá, meu nome é Rafael 👋
+### Olá, meu nome é Rafael 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Hoje trabalho com Front-end / Back-end
+- 🔭 Front-end / Back-end
 - 🌱 Atualmente estudando React
 
 ##
