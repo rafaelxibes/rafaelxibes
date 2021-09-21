@@ -1,4 +1,4 @@
-### Oi, meu nome é Rafael, 24yo 👋
+### olá, meu nome é Rafael 👋
 
 <!--
 - 🔭 I’m currently working on ...
