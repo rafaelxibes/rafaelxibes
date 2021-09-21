@@ -44,7 +44,7 @@
     <!-- Instagram -->
     <a href=""> <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
     <!-- Twitter -->
-    <a href=""> <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
+    <a href="https://twitter.com/xibes_rafael"> <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
     <!-- Gmail -->
     <a href="mailto:rafaelxibes@gmail.com"> <img align="center" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
     <!-- Twitch TV -->
