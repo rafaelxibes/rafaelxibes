@@ -16,6 +16,15 @@
 
 ##
 
+### 🕵️‍♂️ - Visitas no Perfil
+<div align="center">
+ 
+  ![](https://komarev.com/ghpvc/?username=rafaexibes&color=blueviolet&style=flat-square&label=Visitas+no+perfil)
+ 
+</div>
+
+##
+
 ### 😺 - GitHub Status
  <div>
   <a href="https://github.com/rafaelxibes">
@@ -56,6 +65,3 @@
   </div>
 
 ![Snake animation](https://github.com/rafaelxibes/rafaelxibes/blob/output/github-contribution-grid-snake.svg)
-
-![](https://komarev.com/ghpvc/?username=rafaexibes&color=blueviolet&style=flat-square&label=Visitas+no+perfil)
- 
