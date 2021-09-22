@@ -56,3 +56,5 @@
   </div>
 
 ![Snake animation](https://github.com/rafaelxibes/rafaelxibes/blob/output/github-contribution-grid-snake.svg)
+
+ <img alingn="center" src="https://profile-counter.glitch.me/rafaelxibes/count.svg" />
