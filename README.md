@@ -11,8 +11,8 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Front-end / Back-end
-- 🌱 Atualmente estudando React
+- 🔭 Front-end / Back-end.
+- 🌱 Atualmente estudando React.
 
 ##
 
