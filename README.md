@@ -58,18 +58,9 @@
   <img align="center" alt="Rafael-Babel" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg">&nbsp;
   <img align="center" alt="Rafael-WebPack" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg">&nbsp;
   <img align="center" alt="Rafael-Npm" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
-  
-
+  &nbsp;
   <img align="center" alt="Rafael-VsCode" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
   
-
-
-
-
-
- 
-
-
 
 </div>
  
