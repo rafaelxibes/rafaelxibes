@@ -12,7 +12,7 @@
 -->
 
 - 🔭 Front-end / Back-end.
-- 🌱 Atualmente estudando Vue3.
+- 🌱 Atualmente estudando Inertia c/ Vue 3.
 
 ##
 
