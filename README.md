@@ -42,23 +42,18 @@
   <img align="center" alt="Rafael-Sass" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp;
   <img align="center" alt="Rafael-Tailwind" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
   <img align="center" alt="Rafael-Bootstrap" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;
-  
   <img align="center" alt="Rafael-Vue" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">&nbsp;
   <img align="center" alt="Rafael-Laravel" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">&nbsp;
-  
   <img align="center" alt="Rafael-JS" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
   <img align="center" alt="Rafael-Jquery" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">&nbsp;
   <img align="center" alt="Rafael-PhP" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">&nbsp;
-  
   <img align="center" alt="Rafael-Mysql" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;
   <img align="center" alt="Rafael-Postgres" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;
   <img align="center" alt="Rafael-Docker" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
   <img align="center" alt="Rafael-GitLab" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">&nbsp;
-  
   <img align="center" alt="Rafael-Babel" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg">&nbsp;
   <img align="center" alt="Rafael-WebPack" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg">&nbsp;
   <img align="center" alt="Rafael-Npm" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
-  
   <img align="center" alt="Rafael-VsCode" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
   
 
