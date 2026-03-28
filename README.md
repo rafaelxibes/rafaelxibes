@@ -1,6 +1,6 @@
 
 <div align=center>
-  <img alt="Rafael Azolini name displayed in a gradient waving header banner" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:11325B&section=header&reversal=false&fontAlign=50&fontAlignY=40&fontSize=24&textBg=false" />
+  <img alt="Rafael Azolini name displayed in a gradient waving header banner" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:6DA7D8&section=header&reversal=false&fontAlign=50&fontAlignY=40&fontSize=24&textBg=false" />
 
   # Rafael Przybsz
 
@@ -55,13 +55,13 @@ const me = {
 ## &nbsp;GitHub Stats
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelxibes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A8B0C9FF&icon_color=11325B&text_color=A8B0C9FF&count_private=true"/>
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelxibes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A8B0C9FF&icon_color=11325B&text_color=A8B0C9FF&count_private=false"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelxibes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A8B0C9FF&icon_color=6DA7D8&text_color=A8B0C9FF&count_private=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelxibes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A8B0C9FF&icon_color=6DA7D8&text_color=A8B0C9FF&count_private=false"/>
     </picture>
     &nbsp;&nbsp;&nbsp;
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rafaelxibes&hide_border=true&background=0D1117&stroke=11325B&ring=A8B0C9FF&fire=11325B&currStreakLabel=11325B&sideLabels=A8B0C9FF&currStreakNum=11325B&sideNums=11325B&dates=4d4f62" />
-      <img height="160em" src="https://github-readme-streak-stats-eight.vercel.app/?user=rafaelxibes&hide_border=true&background=0D1117&stroke=1a4a7a&ring=11325B&fire=11325B&currStreakLabel=11325B&sideLabels=333333&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4d4f62"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rafaelxibes&hide_border=true&background=0D1117&stroke=6DA7D8&ring=A8B0C9FF&fire=6DA7D8&currStreakLabel=6DA7D8&sideLabels=A8B0C9FF&currStreakNum=6DA7D8&sideNums=6DA7D8&dates=4d4f62" />
+      <img height="160em" src="https://github-readme-streak-stats-eight.vercel.app/?user=rafaelxibes&hide_border=true&background=0D1117&stroke=1a4a7a&ring=6DA7D8&fire=6DA7D8&currStreakLabel=6DA7D8&sideLabels=333333&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4d4f62"/>
     </picture>
   </div>
 
@@ -85,6 +85,6 @@ const me = {
 
 
 <div align=center>
-  <img alt="Rafael Azolini name displayed in a gradient waving header banner" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:11325B&section=footer&reversal=false&fontAlign=50&fontAlignY=40&fontSize=24&textBg=false"/>
+  <img alt="Rafael Azolini name displayed in a gradient waving header banner" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:6DA7D8&section=footer&reversal=false&fontAlign=50&fontAlignY=40&fontSize=24&textBg=false"/>
 </div>
   
