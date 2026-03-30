@@ -16,13 +16,6 @@ const me = {
   role: "Full Stack Developer",
   location: "Brasil 🇧🇷",
   languages: ["Português", "Inglês"],
-  stack: {
-    frontend: ["Angular", "React", "Vue"],
-    backend: [".NET", "Node.js", "Laravel"],
-    database: ["SQL", "PostgreSQL", "MongoDB"],
-    devops: ["Docker", "Kubernetes", "CI/CD"]
-  },
-  focus: "Building elegant, scalable and high-performance solutions",
   mindset: ["Clean Code", "Performance", "Scalability", "Problem Solving"]
 };
 ```
