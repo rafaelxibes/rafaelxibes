@@ -4,7 +4,7 @@
 
   # Rafael Przybsz
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=18&pause=1000&color=A8B0C9&center=true&width=435&lines=Full+Stack+Developer;Building+elegant+and+scalable+solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=18&pause=1000&color=A8B0C9&center=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 </div>
 
 ## &nbsp;About
@@ -15,8 +15,7 @@ const me = {
   age: 29,
   role: "Full Stack Developer",
   location: "Brasil 🇧🇷",
-  languages: ["Português", "Inglês"],
-  mindset: ["Clean Code", "Performance", "Scalability", "Problem Solving"]
+  languages: ["Português", "Inglês"]
 };
 ```
 
